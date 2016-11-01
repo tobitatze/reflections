@@ -1,1 +1,10 @@
-GIT Repsoitory Test File
+Udacity Git/Github Course Reflection Paper for Lesson 2
+___________________________________________________________________________________________________________________________
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory is the directory the files are in
+In the staging area, the files are selected for the commit
+It is valuable because you comit only files that are logically combined and not all files.
+
+-> Need to update this after the course!
