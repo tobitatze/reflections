@@ -5,4 +5,11 @@ When would you want to use a remote repository rather than keeping all your work
 
 -> There is another collaborator
 -> I am not working from the same computer all the time
--> Safety reasons (Code is not gone when computer gets stolen) 
+-> Safety reasons (Code is not gone when computer gets stolen)
+___________________________________________________________________________________________________________________________
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+-> there might be no changes
+-> only logical changes will be pushed
+-> Code won't be "ripped" apart
